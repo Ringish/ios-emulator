@@ -1,0 +1,16 @@
+.iphone {
+	position:relative;
+	background-image: url('/img/iphone.png');
+	width: 480px;
+	height: 970px;
+	background-size: cover;
+	left:50%;
+	transform:translateX(-50%);
+}
+.screen {
+	position: absolute;
+	left: 32px;
+	top: 117px;
+	width: 417px;
+	height: 737px;
+}

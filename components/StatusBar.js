@@ -10,10 +10,10 @@ export default class StatusBar extends Component {
 			<i className="fas fa-circle"></i>
 			<i className="fas fa-circle"></i>
 			<i className="fas fa-circle"></i>
-			<i class="fas fa-wifi"></i>
+			<i className="fas fa-wifi"></i>
 
 			<span className="clock">13:12</span>
-			<i class="fas fa-battery-full"></i>
+			<i className="fas fa-battery-full"></i>
 			</header>
 			);
 	}

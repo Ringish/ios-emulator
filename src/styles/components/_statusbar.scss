@@ -1,0 +1,25 @@
+.status-bar {
+	position:relative;
+	color:#FFF;
+	font-size:12px;
+	padding:4px;
+	box-sizing:border-box;
+	letter-spacing:1px;
+	.fa-circle {
+		font-size:8px;
+	}
+	.fa-wifi {
+		margin-left:10px;
+	}
+	.clock {
+		position:absolute;
+		width:100%;
+		left:0;
+		text-align:center;
+	}
+	.fa-battery-full {
+		position:absolute;
+		right:4px;
+		font-size:15px;
+	}
+}
